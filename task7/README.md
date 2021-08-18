@@ -6,15 +6,15 @@
 
 ### Screenshot-Video
 
-- Please take look at <a href="https://youtu.be/6TU1IzW70uY">PROJECT VIDEO</a> to see how it works.
+- Please take a look at <a href="https://youtu.be/6TU1IzW70uY">PROJECT VIDEO</a> to see how it works.
 
-<img src=""/>
+<img src="https://github.com/tayfun-yuksel/nervos-gitcoin-hackhathon/blob/master/task7/port1.png"/>
 <hr/>
-<img src=""/>
+<img src="https://github.com/tayfun-yuksel/nervos-gitcoin-hackhathon/blob/master/task7/port2.png"/>
 
 ### Project Source Code
 
-- <a href="">GITHUB REPOSITORY</a>
+- <a href="https://github.com/tayfun-yuksel/task7-folders-dapp">GITHUB REPOSITORY</a>
 
 <hr/>
 
