@@ -9,13 +9,13 @@
 
 - Please take look at <a href="https://youtu.be/39Sd0l0i8YE">PROJECT 8 VIDEO</a> to see how it works.
 
-<img src=""/>
+<img src="https://github.com/tayfun-yuksel/nervos-gitcoin-hackhathon/blob/master/task8/force1.png"/>
 <hr/>
-<img src=""/>
+<img src="https://github.com/tayfun-yuksel/nervos-gitcoin-hackhathon/blob/master/task8/force2.png"/>
 
 ### Project Source Code
 
-- <a href="">GITHUB REPOSITORY</a>
+- <a href="https://github.com/tayfun-yuksel/task8-force-bridge">GITHUB REPOSITORY</a>
 
 <hr/>
 
